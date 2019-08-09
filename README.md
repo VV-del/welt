@@ -1,4 +1,4 @@
-# 魅族官网国际化方案 react SSR 重构
+# 魅族官网国际化方案 react SSR 重构(react 服务器渲染)
 ### 说明
 本项目是 **[魅族官网国际化解决方案 [i18n-www](http://gitlab.meizu.com/www/i18n-www)]**的重构优化。 
 
